@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 # Real‑Time PPE Detection (Streamlit)
 
 🦺 **Detect hard‑hat violations from a webcam feed in real time** using a YOLOv8 model.
@@ -67,3 +68,4 @@ ppe_detection/
 ---
 
 *Happy coding!*
+
